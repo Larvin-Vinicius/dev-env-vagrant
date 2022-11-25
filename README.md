@@ -1,4 +1,4 @@
-Ambiente em maquina virtual com docker no debian 10
+Ambiente em maquina virtual com docker no debian 11
 
 * Instale o vagrant
     * https://www.vagrantup.com/
